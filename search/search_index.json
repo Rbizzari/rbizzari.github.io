@@ -1,0 +1,214 @@
+{
+    "docs": [
+        {
+            "location": "/", 
+            "text": "Welcome to the web site of Romain\n\n\nThis web site collect some of my research field, provinding some results.\n\n\nThis web site is under construction...", 
+            "title": "Home"
+        }, 
+        {
+            "location": "/#welcome-to-the-web-site-of-romain", 
+            "text": "This web site collect some of my research field, provinding some results.  This web site is under construction...", 
+            "title": "Welcome to the web site of Romain"
+        }, 
+        {
+            "location": "/about/", 
+            "text": "Personal information part\n\n\nPresentation\n\n\nHi, I'm Romain Bizzari. I achive a Scientific bacalaurea in Briey, very little town close to Metz. Then I went to Nancy for 2 years of intensive courses. a l'issu d'un concours which allow me to study physics.   I am passionated on new technology and understand physics that why I meet both thanks to computation fluids dynamics. \n\n\nIn currently PhD student at CERFACS (European Center for Research and Advanced Training in Scientific Computation). \nI am specialist in fluids mecanics and computation fluid dynamics on HPC (High performance computing) and massively parralel application. \n\n\nNow I am turning to industial case where many physicals phenomens are involved.\n\n\nSoftware already use\n\n\n\n\nAVBP\n\n\nYales2\n\n\nAVTP\n\n\nOpenpalm\n\n\nAntares\n\n\nParaview\n\n\nOpentea\n\n\ncentaur\n\n\ngit \n\n\nlatex\n\n\nMPI\n\n\nstarccm+\n\n\nFluent\n\n\nCantera\n\n\n\n\nResumer", 
+            "title": "About"
+        }, 
+        {
+            "location": "/about/#personal-information-part", 
+            "text": "", 
+            "title": "Personal information part"
+        }, 
+        {
+            "location": "/about/#presentation", 
+            "text": "Hi, I'm Romain Bizzari. I achive a Scientific bacalaurea in Briey, very little town close to Metz. Then I went to Nancy for 2 years of intensive courses. a l'issu d'un concours which allow me to study physics.   I am passionated on new technology and understand physics that why I meet both thanks to computation fluids dynamics.   In currently PhD student at CERFACS (European Center for Research and Advanced Training in Scientific Computation). \nI am specialist in fluids mecanics and computation fluid dynamics on HPC (High performance computing) and massively parralel application.   Now I am turning to industial case where many physicals phenomens are involved.", 
+            "title": "Presentation"
+        }, 
+        {
+            "location": "/about/#software-already-use", 
+            "text": "AVBP  Yales2  AVTP  Openpalm  Antares  Paraview  Opentea  centaur  git   latex  MPI  starccm+  Fluent  Cantera", 
+            "title": "Software already use"
+        }, 
+        {
+            "location": "/about/#resumer", 
+            "text": "", 
+            "title": "Resumer"
+        }, 
+        {
+            "location": "/MTP/", 
+            "text": "PhD study\n\n\nTopic : \n\n\nmain information\n\n\nthermic\n\n\nI studied termal equations\n\n\naerothermal\n\n\nI studied aerothermal modeling of effusion jets", 
+            "title": "PhD"
+        }, 
+        {
+            "location": "/MTP/#phd-study", 
+            "text": "Topic :", 
+            "title": "PhD study"
+        }, 
+        {
+            "location": "/MTP/#main-information", 
+            "text": "", 
+            "title": "main information"
+        }, 
+        {
+            "location": "/MTP/#thermic", 
+            "text": "I studied termal equations", 
+            "title": "thermic"
+        }, 
+        {
+            "location": "/MTP/#aerothermal", 
+            "text": "I studied aerothermal modeling of effusion jets", 
+            "title": "aerothermal"
+        }, 
+        {
+            "location": "/ATMO/", 
+            "text": "Vel ego procumbere en sepulto sedebat nos\n\n\nEntree atmospherique des debrics spatiaux dans l'atmosphere\n\n\nDuring 3 month I work in order to develop a viscosity sensor allowing the use of AVBP at very high mach number, tipicaly mach 20. This study was realised in order to pave the way to a internship study between CERFACS and CNES under the direction of Antony Misdariis.\n\n\nAve coagula uni Mycenae iubet morte lilia\n\n\nLorem markdownum donec. Semina quid! Inachides falsaque festas qui gravi et\nnamque pugna quaerite, pepulere non Oechalia discede tamen nulla. Dumque gloria\ndeus malis hosti posset, invidia gerebat; dea.\n\n\nAngues tibi corpora Perseus si manat Thaumantidos\n\n\nQuoque effugit, sui glorior imago, obliquo intus. Timido membrisque, vidi figens\nnostro astu Cumaea virgine similis, humi ceris! Fervebant tractu Indigetes\npreces fecundam potens vocari acerbo nato prospiciunt unda.\n\n\nip_hoc_cable(bit_jpeg_intellectual - 70 / key, spoofing_point, latencySyn);\nwormAccess.spooling_mode_sip = frequency_of_inkjet;\nrippingPartition(cursor_symbolic * warm, wysiwyg);\nif (errorNetworkingVirus) {\n    deprecated += socket;\n} else {\n    peopleware_wizard(downGraphic);\n    processor += word - frame + -2;\n}\nkey_baud_query(baseband);\n\n\n\nHabet in regina inplevit\n\n\nGratia signa \nnectaris\n dumque instantem. Questa cum ruinam flammas capillos:\nIuppiter, armi pedis, Delphis.\n\n\nReferamus mota\n\n\nDiu illic nec pascua signat furtim frangit \ndebemur\n. A genualia fertur caeli\nipsa quae Cadmus, fama tutus metuam. Sideribus ac pecudes nihil rudibusque,\nsonitum scelus et sacrificat navis addit adeam falsi vidi viseret \nin\nfrena\n? Spectat rogum auro \niunxit\n, vos\nsuperi ipsoque mentitus, ne erumpit, plena caput praeside precibusque plus.\n\n\nCollibus lumen subductaque ungula\n\n\nSororis vel adhuc vulnera sustulit vellent terga perdidit, subiectaque iacentes\nmeritis tremescere \ninmixtos gementis\n discite!\nDicuntur viribus, montibus pavere et illa busta sua viriles et numina, fatigat\nsic. \nManibus torvi\n, oculos\n\ncunctos\n. \nCausam viventi\n.\n\n\n\n\nEt eligit \nceleberrima\n postquam omnes quod qui conspecta; evincitque umbras\ncum litoreo utroque; urbem, non te iacebitis. Quam det esse deae nuper,\ncorpore quatiatur \naethere rerumque\n. Vates pedibusque sopore.\n\n\n\n\nAgunt pericula conveniens meus. Retendit pro nocte temporis pigetque ab neque\ncorymbis amorem: fuit saepe fauces mitis, ducit Phoeboque, serior.", 
+            "title": "Ing."
+        }, 
+        {
+            "location": "/ATMO/#vel-ego-procumbere-en-sepulto-sedebat-nos", 
+            "text": "Entree atmospherique des debrics spatiaux dans l'atmosphere  During 3 month I work in order to develop a viscosity sensor allowing the use of AVBP at very high mach number, tipicaly mach 20. This study was realised in order to pave the way to a internship study between CERFACS and CNES under the direction of Antony Misdariis.", 
+            "title": "Vel ego procumbere en sepulto sedebat nos"
+        }, 
+        {
+            "location": "/ATMO/#ave-coagula-uni-mycenae-iubet-morte-lilia", 
+            "text": "Lorem markdownum donec. Semina quid! Inachides falsaque festas qui gravi et\nnamque pugna quaerite, pepulere non Oechalia discede tamen nulla. Dumque gloria\ndeus malis hosti posset, invidia gerebat; dea.", 
+            "title": "Ave coagula uni Mycenae iubet morte lilia"
+        }, 
+        {
+            "location": "/ATMO/#angues-tibi-corpora-perseus-si-manat-thaumantidos", 
+            "text": "Quoque effugit, sui glorior imago, obliquo intus. Timido membrisque, vidi figens\nnostro astu Cumaea virgine similis, humi ceris! Fervebant tractu Indigetes\npreces fecundam potens vocari acerbo nato prospiciunt unda.  ip_hoc_cable(bit_jpeg_intellectual - 70 / key, spoofing_point, latencySyn);\nwormAccess.spooling_mode_sip = frequency_of_inkjet;\nrippingPartition(cursor_symbolic * warm, wysiwyg);\nif (errorNetworkingVirus) {\n    deprecated += socket;\n} else {\n    peopleware_wizard(downGraphic);\n    processor += word - frame + -2;\n}\nkey_baud_query(baseband);", 
+            "title": "Angues tibi corpora Perseus si manat Thaumantidos"
+        }, 
+        {
+            "location": "/ATMO/#habet-in-regina-inplevit", 
+            "text": "Gratia signa  nectaris  dumque instantem. Questa cum ruinam flammas capillos:\nIuppiter, armi pedis, Delphis.", 
+            "title": "Habet in regina inplevit"
+        }, 
+        {
+            "location": "/ATMO/#referamus-mota", 
+            "text": "Diu illic nec pascua signat furtim frangit  debemur . A genualia fertur caeli\nipsa quae Cadmus, fama tutus metuam. Sideribus ac pecudes nihil rudibusque,\nsonitum scelus et sacrificat navis addit adeam falsi vidi viseret  in\nfrena ? Spectat rogum auro  iunxit , vos\nsuperi ipsoque mentitus, ne erumpit, plena caput praeside precibusque plus.", 
+            "title": "Referamus mota"
+        }, 
+        {
+            "location": "/ATMO/#collibus-lumen-subductaque-ungula", 
+            "text": "Sororis vel adhuc vulnera sustulit vellent terga perdidit, subiectaque iacentes\nmeritis tremescere  inmixtos gementis  discite!\nDicuntur viribus, montibus pavere et illa busta sua viriles et numina, fatigat\nsic.  Manibus torvi , oculos cunctos .  Causam viventi .   Et eligit  celeberrima  postquam omnes quod qui conspecta; evincitque umbras\ncum litoreo utroque; urbem, non te iacebitis. Quam det esse deae nuper,\ncorpore quatiatur  aethere rerumque . Vates pedibusque sopore.   Agunt pericula conveniens meus. Retendit pro nocte temporis pigetque ab neque\ncorymbis amorem: fuit saepe fauces mitis, ducit Phoeboque, serior.", 
+            "title": "Collibus lumen subductaque ungula"
+        }, 
+        {
+            "location": "/RDE/", 
+            "text": "Rotative detonative engine\n\n\nThe last 6 month of my ingeneering school was an internship. I choose to work on a rotative detonative engine at CERFACS. This internship should result on a PhD. However since the funding was granted by Safran they decided to not fund this PhD. However this 6 month was very interesting.", 
+            "title": "PFE"
+        }, 
+        {
+            "location": "/RDE/#rotative-detonative-engine", 
+            "text": "The last 6 month of my ingeneering school was an internship. I choose to work on a rotative detonative engine at CERFACS. This internship should result on a PhD. However since the funding was granted by Safran they decided to not fund this PhD. However this 6 month was very interesting.", 
+            "title": "Rotative detonative engine"
+        }, 
+        {
+            "location": "/TFAST/", 
+            "text": "BEI\n\n\nTFAST : Simulation num\u00e9rique de la transition laminaire-turbulente dans une couche limite avec r\u00e9flexion d'onde de choc.\n\n\nThis section is dedicated to the work co-performed with Xavier Ebrad and Laurent Muscat under the supervision of Marianna Braza at IMFT (Institut de m\u00e9canique des fluides de Toulouse ) directice de recherche CNRS\n\n\nDamien Szubert Physics and modelling of unsteady turbulent flows around aerodynamic and hydrodynamic structures at high Reynold number by numerical simulation  \n\n\nAve coagula uni Mycenae iubet morte lilia\n\n\nLorem markdownum donec. Semina quid! Inachides falsaque festas qui gravi et\nnamque pugna quaerite, pepulere non Oechalia discede tamen nulla. Dumque gloria\ndeus malis hosti posset, invidia gerebat; dea.\n\n\nAngues tibi corpora Perseus si manat Thaumantidos\n\n\nQuoque effugit, sui glorior imago, obliquo intus. Timido membrisque, vidi figens\nnostro astu Cumaea virgine similis, humi ceris! Fervebant tractu Indigetes\npreces fecundam potens vocari acerbo nato prospiciunt unda.\n\n\nip_hoc_cable(bit_jpeg_intellectual - 70 / key, spoofing_point, latencySyn);\nwormAccess.spooling_mode_sip = frequency_of_inkjet;\nrippingPartition(cursor_symbolic * warm, wysiwyg);\nif (errorNetworkingVirus) {\n    deprecated += socket;\n} else {\n    peopleware_wizard(downGraphic);\n    processor += word - frame + -2;\n}\nkey_baud_query(baseband);\n\n\n\nHabet in regina inplevit\n\n\nGratia signa \nnectaris\n dumque instantem. Questa cum ruinam flammas capillos:\nIuppiter, armi pedis, Delphis.\n\n\nReferamus mota\n\n\nDiu illic nec pascua signat furtim frangit \ndebemur\n. A genualia fertur caeli\nipsa quae Cadmus, fama tutus metuam. Sideribus ac pecudes nihil rudibusque,\nsonitum scelus et sacrificat navis addit adeam falsi vidi viseret \nin\nfrena\n? Spectat rogum auro \niunxit\n, vos\nsuperi ipsoque mentitus, ne erumpit, plena caput praeside precibusque plus.\n\n\nCollibus lumen subductaque ungula\n\n\nSororis vel adhuc vulnera sustulit vellent terga perdidit, subiectaque iacentes\nmeritis tremescere \ninmixtos gementis\n discite!\nDicuntur viribus, montibus pavere et illa busta sua viriles et numina, fatigat\nsic. \nManibus torvi\n, oculos\n\ncunctos\n. \nCausam viventi\n.\n\n\n\n\nEt eligit \nceleberrima\n postquam omnes quod qui conspecta; evincitque umbras\ncum litoreo utroque; urbem, non te iacebitis. Quam det esse deae nuper,\ncorpore quatiatur \naethere rerumque\n. Vates pedibusque sopore.\n\n\n\n\nAgunt pericula conveniens meus. Retendit pro nocte temporis pigetque ab neque\ncorymbis amorem: fuit saepe fauces mitis, ducit Phoeboque, serior.", 
+            "title": "BEI"
+        }, 
+        {
+            "location": "/TFAST/#bei", 
+            "text": "TFAST : Simulation num\u00e9rique de la transition laminaire-turbulente dans une couche limite avec r\u00e9flexion d'onde de choc.  This section is dedicated to the work co-performed with Xavier Ebrad and Laurent Muscat under the supervision of Marianna Braza at IMFT (Institut de m\u00e9canique des fluides de Toulouse ) directice de recherche CNRS  Damien Szubert Physics and modelling of unsteady turbulent flows around aerodynamic and hydrodynamic structures at high Reynold number by numerical simulation", 
+            "title": "BEI"
+        }, 
+        {
+            "location": "/TFAST/#ave-coagula-uni-mycenae-iubet-morte-lilia", 
+            "text": "Lorem markdownum donec. Semina quid! Inachides falsaque festas qui gravi et\nnamque pugna quaerite, pepulere non Oechalia discede tamen nulla. Dumque gloria\ndeus malis hosti posset, invidia gerebat; dea.", 
+            "title": "Ave coagula uni Mycenae iubet morte lilia"
+        }, 
+        {
+            "location": "/TFAST/#angues-tibi-corpora-perseus-si-manat-thaumantidos", 
+            "text": "Quoque effugit, sui glorior imago, obliquo intus. Timido membrisque, vidi figens\nnostro astu Cumaea virgine similis, humi ceris! Fervebant tractu Indigetes\npreces fecundam potens vocari acerbo nato prospiciunt unda.  ip_hoc_cable(bit_jpeg_intellectual - 70 / key, spoofing_point, latencySyn);\nwormAccess.spooling_mode_sip = frequency_of_inkjet;\nrippingPartition(cursor_symbolic * warm, wysiwyg);\nif (errorNetworkingVirus) {\n    deprecated += socket;\n} else {\n    peopleware_wizard(downGraphic);\n    processor += word - frame + -2;\n}\nkey_baud_query(baseband);", 
+            "title": "Angues tibi corpora Perseus si manat Thaumantidos"
+        }, 
+        {
+            "location": "/TFAST/#habet-in-regina-inplevit", 
+            "text": "Gratia signa  nectaris  dumque instantem. Questa cum ruinam flammas capillos:\nIuppiter, armi pedis, Delphis.", 
+            "title": "Habet in regina inplevit"
+        }, 
+        {
+            "location": "/TFAST/#referamus-mota", 
+            "text": "Diu illic nec pascua signat furtim frangit  debemur . A genualia fertur caeli\nipsa quae Cadmus, fama tutus metuam. Sideribus ac pecudes nihil rudibusque,\nsonitum scelus et sacrificat navis addit adeam falsi vidi viseret  in\nfrena ? Spectat rogum auro  iunxit , vos\nsuperi ipsoque mentitus, ne erumpit, plena caput praeside precibusque plus.", 
+            "title": "Referamus mota"
+        }, 
+        {
+            "location": "/TFAST/#collibus-lumen-subductaque-ungula", 
+            "text": "Sororis vel adhuc vulnera sustulit vellent terga perdidit, subiectaque iacentes\nmeritis tremescere  inmixtos gementis  discite!\nDicuntur viribus, montibus pavere et illa busta sua viriles et numina, fatigat\nsic.  Manibus torvi , oculos cunctos .  Causam viventi .   Et eligit  celeberrima  postquam omnes quod qui conspecta; evincitque umbras\ncum litoreo utroque; urbem, non te iacebitis. Quam det esse deae nuper,\ncorpore quatiatur  aethere rerumque . Vates pedibusque sopore.   Agunt pericula conveniens meus. Retendit pro nocte temporis pigetque ab neque\ncorymbis amorem: fuit saepe fauces mitis, ducit Phoeboque, serior.", 
+            "title": "Collibus lumen subductaque ungula"
+        }, 
+        {
+            "location": "/MAI/", 
+            "text": "Moscow Aviation Institute\n\n\nUnder the direction of Professor Avraskov\n\n\nI was suching for a second year insternship, between 2 and 3 month (summer holiday) and I was interesting to travel to russie to practise my russian language so after some discussion Dr. Alexei Stukov he proposed to sent me to MAI where he knew a teacher Profesor Valery Avrashkov,\nScramjet \n\n\nAve coagula uni Mycenae iubet morte lilia\n\n\nLorem markdownum donec. Semina quid! Inachides falsaque festas qui gravi et\nnamque pugna quaerite, pepulere non Oechalia discede tamen nulla. Dumque gloria\ndeus malis hosti posset, invidia gerebat; dea.\n\n\nAngues tibi corpora Perseus si manat Thaumantidos\n\n\nQuoque effugit, sui glorior imago, obliquo intus. Timido membrisque, vidi figens\nnostro astu Cumaea virgine similis, humi ceris! Fervebant tractu Indigetes\npreces fecundam potens vocari acerbo nato prospiciunt unda.\n\n\nip_hoc_cable(bit_jpeg_intellectual - 70 / key, spoofing_point, latencySyn);\nwormAccess.spooling_mode_sip = frequency_of_inkjet;\nrippingPartition(cursor_symbolic * warm, wysiwyg);\nif (errorNetworkingVirus) {\n    deprecated += socket;\n} else {\n    peopleware_wizard(downGraphic);\n    processor += word - frame + -2;\n}\nkey_baud_query(baseband);\n\n\n\nHabet in regina inplevit\n\n\nGratia signa \nnectaris\n dumque instantem. Questa cum ruinam flammas capillos:\nIuppiter, armi pedis, Delphis.\n\n\nReferamus mota\n\n\nDiu illic nec pascua signat furtim frangit \ndebemur\n. A genualia fertur caeli\nipsa quae Cadmus, fama tutus metuam. Sideribus ac pecudes nihil rudibusque,\nsonitum scelus et sacrificat navis addit adeam falsi vidi viseret \nin\nfrena\n? Spectat rogum auro \niunxit\n, vos\nsuperi ipsoque mentitus, ne erumpit, plena caput praeside precibusque plus.\n\n\nCollibus lumen subductaque ungula\n\n\nSororis vel adhuc vulnera sustulit vellent terga perdidit, subiectaque iacentes\nmeritis tremescere \ninmixtos gementis\n discite!\nDicuntur viribus, montibus pavere et illa busta sua viriles et numina, fatigat\nsic. \nManibus torvi\n, oculos\n\ncunctos\n. \nCausam viventi\n.\n\n\n\n\nEt eligit \nceleberrima\n postquam omnes quod qui conspecta; evincitque umbras\ncum litoreo utroque; urbem, non te iacebitis. Quam det esse deae nuper,\ncorpore quatiatur \naethere rerumque\n. Vates pedibusque sopore.\n\n\n\n\nAgunt pericula conveniens meus. Retendit pro nocte temporis pigetque ab neque\ncorymbis amorem: fuit saepe fauces mitis, ducit Phoeboque, serior.", 
+            "title": "RUSSIE"
+        }, 
+        {
+            "location": "/MAI/#moscow-aviation-institute", 
+            "text": "Under the direction of Professor Avraskov  I was suching for a second year insternship, between 2 and 3 month (summer holiday) and I was interesting to travel to russie to practise my russian language so after some discussion Dr. Alexei Stukov he proposed to sent me to MAI where he knew a teacher Profesor Valery Avrashkov,\nScramjet", 
+            "title": "Moscow Aviation Institute"
+        }, 
+        {
+            "location": "/MAI/#ave-coagula-uni-mycenae-iubet-morte-lilia", 
+            "text": "Lorem markdownum donec. Semina quid! Inachides falsaque festas qui gravi et\nnamque pugna quaerite, pepulere non Oechalia discede tamen nulla. Dumque gloria\ndeus malis hosti posset, invidia gerebat; dea.", 
+            "title": "Ave coagula uni Mycenae iubet morte lilia"
+        }, 
+        {
+            "location": "/MAI/#angues-tibi-corpora-perseus-si-manat-thaumantidos", 
+            "text": "Quoque effugit, sui glorior imago, obliquo intus. Timido membrisque, vidi figens\nnostro astu Cumaea virgine similis, humi ceris! Fervebant tractu Indigetes\npreces fecundam potens vocari acerbo nato prospiciunt unda.  ip_hoc_cable(bit_jpeg_intellectual - 70 / key, spoofing_point, latencySyn);\nwormAccess.spooling_mode_sip = frequency_of_inkjet;\nrippingPartition(cursor_symbolic * warm, wysiwyg);\nif (errorNetworkingVirus) {\n    deprecated += socket;\n} else {\n    peopleware_wizard(downGraphic);\n    processor += word - frame + -2;\n}\nkey_baud_query(baseband);", 
+            "title": "Angues tibi corpora Perseus si manat Thaumantidos"
+        }, 
+        {
+            "location": "/MAI/#habet-in-regina-inplevit", 
+            "text": "Gratia signa  nectaris  dumque instantem. Questa cum ruinam flammas capillos:\nIuppiter, armi pedis, Delphis.", 
+            "title": "Habet in regina inplevit"
+        }, 
+        {
+            "location": "/MAI/#referamus-mota", 
+            "text": "Diu illic nec pascua signat furtim frangit  debemur . A genualia fertur caeli\nipsa quae Cadmus, fama tutus metuam. Sideribus ac pecudes nihil rudibusque,\nsonitum scelus et sacrificat navis addit adeam falsi vidi viseret  in\nfrena ? Spectat rogum auro  iunxit , vos\nsuperi ipsoque mentitus, ne erumpit, plena caput praeside precibusque plus.", 
+            "title": "Referamus mota"
+        }, 
+        {
+            "location": "/MAI/#collibus-lumen-subductaque-ungula", 
+            "text": "Sororis vel adhuc vulnera sustulit vellent terga perdidit, subiectaque iacentes\nmeritis tremescere  inmixtos gementis  discite!\nDicuntur viribus, montibus pavere et illa busta sua viriles et numina, fatigat\nsic.  Manibus torvi , oculos cunctos .  Causam viventi .   Et eligit  celeberrima  postquam omnes quod qui conspecta; evincitque umbras\ncum litoreo utroque; urbem, non te iacebitis. Quam det esse deae nuper,\ncorpore quatiatur  aethere rerumque . Vates pedibusque sopore.   Agunt pericula conveniens meus. Retendit pro nocte temporis pigetque ab neque\ncorymbis amorem: fuit saepe fauces mitis, ducit Phoeboque, serior.", 
+            "title": "Collibus lumen subductaque ungula"
+        }, 
+        {
+            "location": "/RE/", 
+            "text": "Insternship at Renault Sovab ingeneering \"DIV D Montage\"\n\n\nVel ego procumbere en sepulto sedebat nos\n\n\nAve coagula uni Mycenae iubet morte lilia\n\n\nLorem markdownum donec. Semina quid! Inachides falsaque festas qui gravi et\nnamque pugna quaerite, pepulere non Oechalia discede tamen nulla. Dumque gloria\ndeus malis hosti posset, invidia gerebat; dea.\n\n\nAngues tibi corpora Perseus si manat Thaumantidos\n\n\nQuoque effugit, sui glorior imago, obliquo intus. Timido membrisque, vidi figens\nnostro astu Cumaea virgine similis, humi ceris! Fervebant tractu Indigetes\npreces fecundam potens vocari acerbo nato prospiciunt unda.\n\n\nip_hoc_cable(bit_jpeg_intellectual - 70 / key, spoofing_point, latencySyn);\nwormAccess.spooling_mode_sip = frequency_of_inkjet;\nrippingPartition(cursor_symbolic * warm, wysiwyg);\nif (errorNetworkingVirus) {\n    deprecated += socket;\n} else {\n    peopleware_wizard(downGraphic);\n    processor += word - frame + -2;\n}\nkey_baud_query(baseband);\n\n\n\nHabet in regina inplevit\n\n\nGratia signa \nnectaris\n dumque instantem. Questa cum ruinam flammas capillos:\nIuppiter, armi pedis, Delphis.\n\n\nReferamus mota\n\n\nDiu illic nec pascua signat furtim frangit \ndebemur\n. A genualia fertur caeli\nipsa quae Cadmus, fama tutus metuam. Sideribus ac pecudes nihil rudibusque,\nsonitum scelus et sacrificat navis addit adeam falsi vidi viseret \nin\nfrena\n? Spectat rogum auro \niunxit\n, vos\nsuperi ipsoque mentitus, ne erumpit, plena caput praeside precibusque plus.\n\n\nCollibus lumen subductaque ungula\n\n\nSororis vel adhuc vulnera sustulit vellent terga perdidit, subiectaque iacentes\nmeritis tremescere \ninmixtos gementis\n discite!\nDicuntur viribus, montibus pavere et illa busta sua viriles et numina, fatigat\nsic. \nManibus torvi\n, oculos\n\ncunctos\n. \nCausam viventi\n.\n\n\n\n\nEt eligit \nceleberrima\n postquam omnes quod qui conspecta; evincitque umbras\ncum litoreo utroque; urbem, non te iacebitis. Quam det esse deae nuper,\ncorpore quatiatur \naethere rerumque\n. Vates pedibusque sopore.\n\n\n\n\nAgunt pericula conveniens meus. Retendit pro nocte temporis pigetque ab neque\ncorymbis amorem: fuit saepe fauces mitis, ducit Phoeboque, serior.", 
+            "title": "Renault"
+        }, 
+        {
+            "location": "/RE/#insternship-at-renault-sovab-ingeneering-div-d-montage", 
+            "text": "Vel ego procumbere en sepulto sedebat nos", 
+            "title": "Insternship at Renault Sovab ingeneering \"DIV D Montage\""
+        }, 
+        {
+            "location": "/RE/#ave-coagula-uni-mycenae-iubet-morte-lilia", 
+            "text": "Lorem markdownum donec. Semina quid! Inachides falsaque festas qui gravi et\nnamque pugna quaerite, pepulere non Oechalia discede tamen nulla. Dumque gloria\ndeus malis hosti posset, invidia gerebat; dea.", 
+            "title": "Ave coagula uni Mycenae iubet morte lilia"
+        }, 
+        {
+            "location": "/RE/#angues-tibi-corpora-perseus-si-manat-thaumantidos", 
+            "text": "Quoque effugit, sui glorior imago, obliquo intus. Timido membrisque, vidi figens\nnostro astu Cumaea virgine similis, humi ceris! Fervebant tractu Indigetes\npreces fecundam potens vocari acerbo nato prospiciunt unda.  ip_hoc_cable(bit_jpeg_intellectual - 70 / key, spoofing_point, latencySyn);\nwormAccess.spooling_mode_sip = frequency_of_inkjet;\nrippingPartition(cursor_symbolic * warm, wysiwyg);\nif (errorNetworkingVirus) {\n    deprecated += socket;\n} else {\n    peopleware_wizard(downGraphic);\n    processor += word - frame + -2;\n}\nkey_baud_query(baseband);", 
+            "title": "Angues tibi corpora Perseus si manat Thaumantidos"
+        }, 
+        {
+            "location": "/RE/#habet-in-regina-inplevit", 
+            "text": "Gratia signa  nectaris  dumque instantem. Questa cum ruinam flammas capillos:\nIuppiter, armi pedis, Delphis.", 
+            "title": "Habet in regina inplevit"
+        }, 
+        {
+            "location": "/RE/#referamus-mota", 
+            "text": "Diu illic nec pascua signat furtim frangit  debemur . A genualia fertur caeli\nipsa quae Cadmus, fama tutus metuam. Sideribus ac pecudes nihil rudibusque,\nsonitum scelus et sacrificat navis addit adeam falsi vidi viseret  in\nfrena ? Spectat rogum auro  iunxit , vos\nsuperi ipsoque mentitus, ne erumpit, plena caput praeside precibusque plus.", 
+            "title": "Referamus mota"
+        }, 
+        {
+            "location": "/RE/#collibus-lumen-subductaque-ungula", 
+            "text": "Sororis vel adhuc vulnera sustulit vellent terga perdidit, subiectaque iacentes\nmeritis tremescere  inmixtos gementis  discite!\nDicuntur viribus, montibus pavere et illa busta sua viriles et numina, fatigat\nsic.  Manibus torvi , oculos cunctos .  Causam viventi .   Et eligit  celeberrima  postquam omnes quod qui conspecta; evincitque umbras\ncum litoreo utroque; urbem, non te iacebitis. Quam det esse deae nuper,\ncorpore quatiatur  aethere rerumque . Vates pedibusque sopore.   Agunt pericula conveniens meus. Retendit pro nocte temporis pigetque ab neque\ncorymbis amorem: fuit saepe fauces mitis, ducit Phoeboque, serior.", 
+            "title": "Collibus lumen subductaque ungula"
+        }
+    ]
+}
